@@ -3,6 +3,10 @@
 This time series encoder was adapted form the pytorch sequence to sequence encoder tutorials.
 http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
+### Data
+Data used for this encoder can be found here:
+https://physionet.org/pn6/capslpdb/
+
 ### Install
 To use this code please install pytorch, and mne
 
